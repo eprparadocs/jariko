@@ -26,8 +26,12 @@ JaRIKo can definitely be used as a library: you push RPG code in, you have it ex
 
 ![rpgweb](/images/rpgwebdark.gif)  
 
+This application is running on Linux, uses Jariko as a jar, and overwrites the DSPLY, redirecting the output to the http-response and throghout the network. Pretty slick!
 
-But, for an enterprise-grade application, there'll be a runtime environment running RPG and JVM code altogether, and it will likely work as in the following picture
+![rpgweb](/images/RPG_WEB@2x.png)
+
+
+But, **for an enterprise-grade application**, there'll be a runtime environment running RPG and JVM code altogether, and it will likely work as in the following picture
 
 ![smeup_data_platform](/images/architecture.png)  
 
